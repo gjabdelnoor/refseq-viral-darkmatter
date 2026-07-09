@@ -1,0 +1,499 @@
+rank	accession	prot_novelty	nuc_novelty	genome_kb	provisional_identity	taxid	family	genus	host	release_date
+1	PX121435.1	0.7380	1.0000	7.1	Achillea betacytorhabdovirus 1 isolate NPPO-NL_6166765, complete genome	3478604	Rhabdoviridae	Betacytorhabdovirus	NA	2025/12/17
+2	PX119440.1	0.7059	1.0000	0.9	MAG: Cosmacovirus isolate C139_73327, complete genome	2169659	Smacoviridae		NA	2025/12/14
+3	PX374195.1	0.6341	1.0000	3.0	MAG: Madamur torque teno virus isolate MNB23_171_1302, complete genome	3477567	Anelloviridae		NA	2025/12/11
+4	PX843009.1	0.6271	0.6667	1.8	Macochavirus sp. isolate B, complete genome	3695600	Pecoviridae	Macochavirus	NA	2026/03/22
+5	PP830828.1	0.6212	1.0000	3.4	MAG: Buffalo cressvirus 1 isolate RS-3, complete genome	3161009			NA	2025/11/17
+6	PX119465.1	0.6200	1.0000	2.3	MAG: Porprismacovirus isolate W144_9443, complete genome	2169663	Smacoviridae		NA	2025/12/14
+7	PX843015.1	0.6154	0.7391	2.3	Macochavirus sp. isolate H, complete genome	3695600	Pecoviridae	Macochavirus	NA	2026/03/22
+8	PX374365.1	0.6136	0.9524	2.1	MAG: Madamur torque teno virus isolate MNB22_127_854, complete genome	3477567	Anelloviridae		NA	2025/12/11
+9	PX119469.1	0.6119	1.0000	2.6	MAG: Smacoviridae sp. isolate W144_98548, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+10	PX241846.1	0.6115	0.9877	8.1	Marnaviridae sp. isolate SP_44182, complete genome	2715102	Marnaviridae		NA	2026/04/29
+11	PX374210.1	0.6098	1.0000	2.8	MAG: Madamur torque teno virus isolate MNB23_210_1196, complete genome	3477567	Anelloviridae		NA	2025/12/11
+12	PX374024.1	0.6087	0.9565	2.3	MAG: Madamur torque teno virus isolate MNB23_178_2190, complete genome	3477567	Anelloviridae		NA	2025/12/11
+13	PX374203.1	0.6053	1.0000	2.7	MAG: Madamur torque teno virus isolate MNB23_187_2056, complete genome	3477567	Anelloviridae		NA	2025/12/11
+14	PX374354.1	0.6047	0.9615	2.6	MAG: Madamur torque teno virus isolate MNB23_227_1935, complete genome	3477567	Anelloviridae		NA	2025/12/11
+15	PX373912.1	0.6047	0.9474	1.9	MAG: Madasor torque teno virus isolate MNB22_100_943, complete genome	3477569	Anelloviridae		NA	2025/12/11
+16	PX374368.1	0.6042	1.0000	2.0	MAG: Madamur torque teno virus isolate MNB23_213_1359, complete genome	3477567	Anelloviridae		NA	2025/12/11
+17	PQ723717.1	0.6000	1.0000	4.4	Anagyrus aberiae phasmavirus 1 strain neg2.2, complete genome	3420430	NA	NA	NA	2026/05/12
+18	PX692491.1	0.5926	1.0000	15.0	Lolium perenne alphaendornavirus isolate AUS2, complete genome	3688038	Endornaviridae	Alphaendornavirus	NA	2026/03/11
+19	LC895899.1	0.5882	1.0000	0.9	MAG: Unidentified virus HsOb_Oi RNA, complete genome	1214906			NA	2025/10/09
+20	PV475166.1	0.5882	1.0000	1.9	MAG: Virus sp. isolate LBaCV-27, complete genome	2202649			NA	2026/01/13
+21	NC_117432.1	0.5817	0.9889	9.0	Polygonatum mosaic-associated virus 1 isolate S21MP21 SR, complete genome	3019935	Potyviridae	Potyvirus	NA	2026/06/05
+22	PV685795.1	0.5806	1.0000	3.3	MAG: Circoviridae sp. isolate pool 2, complete genome	1954248	Nenyaviridae	Galvornvirus	unknown	2026/03/12
+23	PX241845.1	0.5805	1.0000	7.6	Marnaviridae sp. isolate SP_11226, complete genome	2715102	Marnaviridae		NA	2026/04/29
+24	PZ166165.1	0.5778	1.0000	2.5	MAG: Torque teno felis virus AZBC123_a, complete genome	3696511	Anelloviridae		NA	2026/04/18
+25	PX119459.1	0.5763	1.0000	2.9	MAG: Smacoviridae sp. isolate W142_79480, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+26	PX374201.1	0.5745	0.9677	3.1	MAG: Madamur torque teno virus isolate MNB23_183_724, complete genome	3477567	Anelloviridae		NA	2025/12/11
+27	PX119416.1	0.5741	1.0000	3.3	MAG: Smacoviridae sp. isolate B54_11510, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+28	PX119358.1	0.5714			MAG: Gemycircularvirus isolate G114_4755, complete genome	1542744	Genomoviridae		NA	2025/12/14
+29	PX373924.1	0.5714	1.0000	2.5	MAG: Madamur torque teno virus isolate MNB23_190_1945, complete genome	3477567	Anelloviridae		NA	2025/12/11
+30	PX121446.1	0.5714	1.0000	14.5	Bergerden gammacytorhabdovirus 1 isolate NPPO-NL_39616419, complete genome	3479779	Rhabdoviridae	Gammacytorhabdovirus	NA	2025/12/17
+31	PX121443.1	0.5704	1.0000	14.8	Bergerden gammacytorhabdovirus 1 isolate NPPO-NL_6166415, complete genome	3479779	Rhabdoviridae	Gammacytorhabdovirus	NA	2025/12/17
+32	PX121445.1	0.5669	1.0000	14.9	Bergerden gammacytorhabdovirus 1 isolate NPPO-NL_6166546, complete genome	3479779	Rhabdoviridae	Gammacytorhabdovirus	NA	2025/12/17
+33	PX119443.1	0.5667	1.0000	2.1	MAG: Smacoviridae sp. isolate G104_34764, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+34	PX119421.1	0.5660	1.0000	2.7	MAG: Smacoviridae sp. isolate B64_10503, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+35	PX833271.1	0.5642	1.0000	14.8	Lispiviridae sp. isolate CxLispV-SP_12, complete genome	2809526	Lispiviridae		NA	2026/04/06
+36	PX119453.1	0.5641	1.0000	1.9	MAG: Porprismacovirus isolate T132_7595, complete genome	2169663	Smacoviridae		NA	2025/12/14
+37	PX119433.1	0.5610	1.0000	2.8	MAG: Smacoviridae sp. isolate B90_14291, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+38	PX121444.1	0.5603	1.0000	14.8	Bergerden gammacytorhabdovirus 1 isolate NPPO-NL_6166538, complete genome	3479779	Rhabdoviridae	Gammacytorhabdovirus	NA	2025/12/17
+39	PX374142.1	0.5588	1.0000	2.6	MAG: Madamur torque teno virus isolate MNB23_208_5848, complete genome	3477567	Anelloviridae		NA	2025/12/11
+40	PV454213.1	0.5581	1.0000	3.8	Pontastacus leptodactylus alphanodavirus isolate C13-3555, complete genome	3446842	Nodaviridae	Alphanodavirus	NA	2025/10/01
+41	PX241847.1	0.5570	0.9780	9.1	Marnaviridae sp. isolate SP_34331, complete genome	2715102	Marnaviridae		NA	2026/04/29
+42	LC925562.1	0.5559	1.0000	14.1	Zostera marina endornavirus 2 ZmEV2 RNA, complete genome	3701596	Endornaviridae	Alphaendornavirus	NA	2026/04/14
+43	PX119476.1	0.5556	0.9722	3.6	MAG: Gemycircularvirus isolate B35_47887, complete genome	1542744	Genomoviridae		NA	2025/12/14
+44	PX119464.1	0.5556	1.0000	3.2	MAG: Smacoviridae sp. isolate W143_127802, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+45	PQ673596.1	0.5556	1.0000	0.8	Tripseudo totilivirus 2 isolate ISS 470, complete genome	NA	NA	NA	NA	2026/07/06
+46	PX374145.1	0.5556	0.9714	3.5	MAG: Madamur torque teno virus isolate MNB22_050_3031, complete genome	3477567	Anelloviridae		NA	2025/12/11
+47	PX373931.1	0.5556	1.0000	1.4	MAG: Madamur torque teno virus isolate MNB23_202_9365, complete genome	3477567	Anelloviridae		NA	2025/12/11
+48	PV585605.1	0.5556	0.9630	2.7	MAG: Egypt mitovirus-like virus 2 isolate Aswan_CPC_Pool2, complete genome	3478332	Mitoviridae		NA	2025/12/21
+49	PX849507.1	0.5549	1.0000	10.4	Fuyun tick virus 1 isolate HT-BX2, complete genome	2977135	Lispiviridae	Ganiavirus	NA	2026/03/28
+50	PZ577545.1	0.5526	1.0000	2.1	Yambean mosaic virus strain TM2, complete genome	NA	NA	NA	NA	2026/07/04
+51	PZ577951.1	0.5526	1.0000	5.6	Curvularia americana hypovirus 1 isolate 32-2, complete genome	3734416	Hypoviridae	Hypovirus	NA	2026/07/01
+52	PX374249.1	0.5526	1.0000	3.2	MAG: Madamur torque teno virus isolate MNB23_203_3716, complete genome	3477567	Anelloviridae		NA	2025/12/11
+53	PX833274.1	0.5526	1.0000	6.3	Lispiviridae sp. isolate CxLispV-SP_15, complete genome	2809526	Lispiviridae		NA	2026/04/06
+54	PX121448.1	0.5523	1.0000	13.2	Buckwheat alphacytorhabdovirus isolate GG-L2, complete genome	3478595	Rhabdoviridae	Alphacytorhabdovirus	NA	2025/12/17
+55	PX119411.1	0.5517	1.0000	3.0	MAG: Smacoviridae sp. isolate B45_91866, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+56	PX843017.1	0.5517	0.6923	2.6	Macochavirus sp. isolate J, complete genome	3695600	Pecoviridae	Macochavirus	NA	2026/03/22
+57	PX119438.1	0.5510	1.0000	3.1	MAG: Porprismacovirus isolate C137_44278, complete genome	2169663	Smacoviridae		NA	2025/12/14
+58	PX374156.1	0.5510	0.9677	3.1	MAG: Madamur torque teno virus isolate MNB23_170_1396, complete genome	3477567	Anelloviridae		NA	2025/12/11
+59	PX374170.1	0.5500	0.9706	3.4	MAG: Madamur torque teno virus isolate MNB22_049_3676, complete genome	3477567	Anelloviridae		NA	2025/12/11
+60	PX374214.1	0.5490	1.0000	2.4	MAG: Madamur torque teno virus isolate MNB23_222_1410, complete genome	3477567	Anelloviridae		NA	2025/12/11
+61	NC_131212.1	0.5489	0.8434	8.3	Felismacovirus babas1 1/ZM09-64 DNA, complete genome	3428657	Smacoviridae	Felismacovirus	eukaryote	2026/01/05
+62	PX119418.1	0.5472	1.0000	5.1	MAG: Porprismacovirus isolate B57_27317, complete genome	2169663	Smacoviridae		NA	2025/12/14
+63	LC900466.1	0.5472	1.0000	2.9	MAG: Sapelovirus A Sapelo/wt/Pig/Japan/G-HYoko-4/2022 genomic RNA, nearly complete genome	686984	Picornaviridae	Sapelovirus	eukaryote	2025/11/11
+64	NC_115690.1	0.5464	0.9744	3.9	Allium polerovirus A isolate RDS22-3, complete genome	2593979	Solemoviridae	Polerovirus	NA	2026/05/12
+65	PX119442.1	0.5455	1.0000	3.2	MAG: Inpeasmacovirus isolate G102_25395, complete genome	2842760	Smacoviridae		NA	2025/12/14
+66	PX373955.1	0.5455	0.9615	2.6	MAG: Madamur torque teno virus isolate MNB22_119_2626, complete genome	3477567	Anelloviridae		NA	2025/12/11
+67	PX373943.1	0.5455	0.9643	2.8	MAG: Madamur torque teno virus isolate MNB22_073_6039, complete genome	3477567	Anelloviridae		NA	2025/12/11
+68	PX373925.1	0.5455	1.0000	2.7	MAG: Madamur torque teno virus isolate MNB23_231_2847, complete genome	3477567	Anelloviridae		NA	2025/12/11
+69	PV231804.1	0.5455	1.0000	11.3	Forcipomyia taiwana xinmovirus 1, complete genome	3447075	Xinmoviridae		NA	2025/10/19
+70	NC_117253.1	0.5441	1.0000	15.4	Cereal chlorotic mottle virus isolate M, complete genome	2964312	Rhabdoviridae	Gammanucleorhabdovirus	NA	2026/05/26
+71	PX843010.1	0.5439	0.6190	2.1	Macochavirus sp. isolate C, complete genome	3695600	Pecoviridae	Macochavirus	NA	2026/03/22
+72	PX374258.1	0.5429	0.9677	3.1	MAG: Madamur torque teno virus isolate MNB23_226_3375, complete genome	3477567	Anelloviridae		NA	2025/12/11
+73	PX119361.1	0.5417	0.8824	1.7	MAG: Gemycircularvirus isolate T125_54632, complete genome	1542744	Genomoviridae		NA	2025/12/14
+74	PX374167.1	0.5417	0.9706	3.4	MAG: Madamur torque teno virus isolate MNB23_244_862, complete genome	3477567	Anelloviridae		NA	2025/12/11
+75	PV685793.1	0.5417	1.0000	2.4	MAG: Virus sp. isolate pool 2, complete genome	2202649			NA	2026/03/12
+76	PX833269.1	0.5413	1.0000	6.2	Lispiviridae sp. isolate CxLispV-SP_03, complete genome	2809526	Lispiviridae		NA	2026/04/06
+77	PX833272.1	0.5409	1.0000	9.5	Lispiviridae sp. isolate CxLispV-SP_13, complete genome	2809526	Lispiviridae		NA	2026/04/06
+78	PX374198.1	0.5405	1.0000	2.4	MAG: Madamur torque teno virus isolate MNB23_181_2435, complete genome	3477567	Anelloviridae		NA	2025/12/11
+79	PX833273.1	0.5405	1.0000	6.8	Lispiviridae sp. isolate CxLispV-SP_14, complete genome	2809526	Lispiviridae		NA	2026/04/06
+80	PX833270.1	0.5405	1.0000	6.5	Lispiviridae sp. isolate CxLispV-SP_09, complete genome	2809526	Lispiviridae		NA	2026/04/06
+81	PX374149.1	0.5400	1.0000	2.0	MAG: Madamur torque teno virus isolate MNB22_091_5838, complete genome	3477567	Anelloviridae		NA	2025/12/11
+82	PX119376.1	0.5397	1.0000	1.7	MAG: Porprismacovirus isolate B10_50067, complete genome	2169663	Smacoviridae		NA	2025/12/14
+83	PX241852.1	0.5396	1.0000	8.3	Marnaviridae sp. isolate SP_10981, complete genome	2715102	Marnaviridae		NA	2026/04/29
+84	PV231822.1	0.5395	1.0000	11.9	Susulus venustus xinmovirus 1, complete genome	3447092	Xinmoviridae		NA	2025/10/19
+85	PX241855.1	0.5389	1.0000	9.3	Marnaviridae sp. isolate SP_28427, complete genome	2715102	Marnaviridae		NA	2026/04/29
+86	PX374173.1	0.5385	1.0000	3.3	MAG: Madamur torque teno virus isolate MNB22_056_2978, complete genome	3477567	Anelloviridae		NA	2025/12/11
+87	OR583950.1	0.5375	1.0000	3.6	Microviridae sp. isolate Abbotsbury_2016_UTMF1138, complete genome	2202644			eukaryote	2026/04/11
+88	PX121453.1	0.5374	0.9929	14.1	Cranesbill betacytorhabdovirus 1 isolate NPPO-NL_6166562, complete genome	3478606	Rhabdoviridae	Betacytorhabdovirus	NA	2025/12/17
+89	PX241851.1	0.5372	1.0000	11.2	Marnaviridae sp. isolate SP_83441, complete genome	2715102	Marnaviridae		NA	2026/04/29
+90	PX374140.1	0.5366	0.9697	3.3	MAG: Madamur torque teno virus isolate MNB23_203_3722, complete genome	3477567	Anelloviridae		NA	2025/12/11
+91	PX373918.1	0.5366	1.0000	2.1	MAG: Madamur torque teno virus isolate MNB23_204_2382, complete genome	3477567	Anelloviridae		NA	2025/12/11
+92	PV585606.1	0.5362	1.0000	3.9	MAG: Egypt chrysovirus-like virus isolate Cairo_CPC_Pool3, complete genome	3478330	Chrysoviridae		NA	2025/12/21
+93	PV585610.1	0.5352	1.0000	4.4	MAG: Egypt chrysovirus-like virus isolate Aswan_AC_Pool6, complete genome	3478330	Chrysoviridae		NA	2025/12/21
+94	PX121440.1	0.5351	1.0000	5.0	Artemisia varicosavirus 2 isolate NPPO-NL_6166992, complete genome	3478609	Rhabdoviridae	Varicosavirus	NA	2025/12/17
+95	PQ673586.1	0.5349	1.0000	12.7	Tripseudo Lispivirus 3 isolate ISS 470, complete genome	NA	NA	NA	NA	2026/07/06
+96	PX374107.1	0.5349	0.9667	3.0	MAG: Madamur torque teno virus isolate MNB22_121_3402, complete genome	3477567	Anelloviridae		NA	2025/12/11
+97	PX374088.1	0.5349	0.9667	3.0	MAG: Madamur torque teno virus isolate MNB22_119_2616, complete genome	3477567	Anelloviridae		NA	2025/12/11
+98	PX374048.1	0.5349	0.9667	3.0	MAG: Madamur torque teno virus isolate MNB23_165_5149, complete genome	3477567	Anelloviridae		NA	2025/12/11
+99	PX373951.1	0.5349	0.9565	2.3	MAG: Madamur torque teno virus isolate MNB22_098_2776, complete genome	3477567	Anelloviridae		NA	2025/12/11
+100	PX373923.1	0.5349	1.0000	2.6	MAG: Madamur torque teno virus isolate MNB23_167_837, complete genome	3477567	Anelloviridae		NA	2025/12/11
+101	PX373921.1	0.5349	1.0000	1.9	MAG: Madamur torque teno virus isolate MNB22_073_6051, complete genome	3477567	Anelloviridae		NA	2025/12/11
+102	LC900345.1	0.5338	1.0000	9.3	MAG: Dicistroviridae sp. Dicistro/wt/Wild_Boar/Japan/Toya-12/2019 genomic RNA, nearly complete genome	1955144	Dicistroviridae		NA	2025/11/11
+103	PX121450.1	0.5338	1.0000	6.3	Capsicum trirhavirus 1 isolate NPPO-NL_24070172, complete genome	3478610	Rhabdoviridae	Trirhavirus	NA	2025/12/17
+104	PX374044.1	0.5333	0.9615	2.6	MAG: Madamur torque teno virus isolate MNB22_102_2807, complete genome	3477567	Anelloviridae		NA	2025/12/11
+105	PX121442.1	0.5333	1.0000	11.5	Asparagales alphanucleorhabdovirus 1 isolate NPPO-NL_41903396, complete genome	3479778	Rhabdoviridae	Alphanucleorhabdovirus	NA	2025/12/17
+106	PV585551.1	0.5333	1.0000	2.7	MAG: Egypt associated orthomyxo-like virus 1 isolate Giza_CPC_Pool4, complete genome	3478328	Orthomyxoviridae		NA	2025/12/21
+107	PV585570.1	0.5328	1.0000	8.1	MAG: Culex Bunyavirus 2 isolate Cairo_CP_Pool7, complete genome	2304499	Phenuiviridae	Mobuvirus	NA	2025/12/21
+108	PX121454.1	0.5323	0.9832	11.9	Creeping Charlie alphacytorhabdovirus 1 isolate NPPO-NL_6166933, complete genome	3479780	Rhabdoviridae	Alphacytorhabdovirus	NA	2025/12/17
+109	PV585562.1	0.5321	1.0000	13.7	MAG: Guadeloupe Culex rhabdovirus isolate Aswan_AC_Pool6, complete genome	2607740	Rhabdoviridae	Stangrhavirus	NA	2025/12/21
+110	PX119449.1	0.5319	1.0000	2.2	MAG: Smacoviridae sp. isolate G110_27590, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+111	PX374348.1	0.5319	0.9583	2.4	MAG: Madamur torque teno virus isolate MNB22_113_2554, complete genome	3477567	Anelloviridae		NA	2025/12/11
+112	PX374189.1	0.5319	1.0000	2.2	MAG: Madamur torque teno virus isolate MNB22_114_3605, complete genome	3477567	Anelloviridae		NA	2025/12/11
+113	PX374002.1	0.5319	0.9333	1.5	MAG: Madamur torque teno virus isolate MNB22_072_5873, complete genome	3477567	Anelloviridae		NA	2025/12/11
+114	PX241849.1	0.5319	1.0000	11.3	Marnaviridae sp. isolate SP_24176, complete genome	2715102	Marnaviridae		NA	2026/04/29
+115	LC877253.1	0.5319	0.9000	2.0	Lachancea kluyveri L-A virus M295 satellite RNA, complete genome	3436048			NA	2025/10/02
+116	NC_139374.1	0.5315	1.0000	13.3	MAG: Betanucleorhabdovirus taraxi isolate PLE20SW, complete genome	3427245	Rhabdoviridae	Betanucleorhabdovirus	NA	2026/05/26
+117	PX374218.1	0.5312	0.9677	3.1	MAG: Madamur torque teno virus isolate MNB23_241_2365, complete genome	3477567	Anelloviridae		NA	2025/12/11
+118	PX241860.1	0.5312	1.0000	11.1	Marnaviridae sp. isolate SP_21627, complete genome	2715102	Marnaviridae		NA	2026/04/29
+119	PX374150.1	0.5306	0.9677	3.1	MAG: Madamur torque teno virus isolate MNB22_102_2798, complete genome	3477567	Anelloviridae		NA	2025/12/11
+120	PX373989.1	0.5306	0.9667	3.0	MAG: Madamur torque teno virus isolate MNB22_105_1760, complete genome	3477567	Anelloviridae		NA	2025/12/11
+121	PX241859.1	0.5304	1.0000	10.8	Marnaviridae sp. isolate SP_31066, complete genome	2715102	Marnaviridae		NA	2026/04/29
+122	PX843008.1	0.5303	0.5909	2.2	Macochavirus sp. isolate A, complete genome	3695600	Pecoviridae	Macochavirus	NA	2026/03/22
+123	OR583928.1	0.5301	1.0000	5.9	Microviridae sp. isolate Abbotsbury_2016_UTMF1064, complete genome	2202644			eukaryote	2026/04/11
+124	PV585598.1	0.5301	1.0000	12.2	MAG: Guadeloupe Culex rhabdovirus isolate Red Sea_CPC_Pool14, complete genome	2607740	Rhabdoviridae	Stangrhavirus	NA	2025/12/21
+125	PX374164.1	0.5294	0.9688	3.2	MAG: Madamur torque teno virus isolate MNB23_229_3237, complete genome	3477567	Anelloviridae		NA	2025/12/11
+126	PV591951.1	0.5294	0.9855	6.9	Mayaro virus isolate 29038/MAYV/FG/1996-02-29, complete genome	59301	Togaviridae	Alphavirus	eukaryote	2026/05/05
+127	PV475165.1	0.5294	1.0000	1.1	MAG: Virus sp. isolate LBaCV-26, complete genome	2202649			NA	2026/01/13
+128	PX241850.1	0.5291	1.0000	11.1	Marnaviridae sp. isolate SP_44506, complete genome	2715102	Marnaviridae		NA	2026/04/29
+129	PV585546.1	0.5280	1.0000	13.5	MAG: Guadeloupe Culex rhabdovirus isolate Cairo_CPC_Pool3, complete genome	2607740	Rhabdoviridae	Stangrhavirus	NA	2025/12/21
+130	PX119457.1	0.5263	1.0000	2.1	MAG: Smacoviridae sp. isolate W141_86967, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+131	PX374331.1	0.5263	0.9524	2.1	MAG: Madamur torque teno virus isolate MNB23_263_2076, complete genome	3477567	Anelloviridae		NA	2025/12/11
+132	PZ156483.1	0.5260	0.9861	7.2	Phalaenopsis badnavirus 1 isolate GBVC_PBV1, complete genome	3714624	Caulimoviridae	Badnavirus	NA	2026/06/08
+133	LC925561.1	0.5260	1.0000	14.4	Zostera marina endornavirus 1 ZmEV1 RNA, complete genome	3701595	Endornaviridae	Alphaendornavirus	NA	2026/04/14
+134	NC_139372.1	0.5258	1.0000	12.7	MAG: Tomato betanucleorhabdovirus 2 isolate SKO20ST1, complete genome	2950851	Rhabdoviridae	Betanucleorhabdovirus	NA	2026/05/26
+135	OR583995.1	0.5256	1.0000	3.7	Microviridae sp. isolate Abbotsbury_2016_UTMF1695, complete genome	2202644			eukaryote	2026/04/11
+136	PX119398.1	0.5250	1.0000	2.9	MAG: Smacoviridae sp. isolate B32_124829, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+137	PX119451.1	0.5246	1.0000	3.0	MAG: Inpeasmacovirus isolate T124_23998, complete genome	2842760	Smacoviridae		NA	2025/12/14
+138	LC903583.1	0.5244	0.9787	4.7	Melon necrotic spot virus JJ RNA, complete genome	11987	Tombusviridae	Gammacarmovirus	eukaryote	2025/11/22
+139	PX374312.1	0.5238	0.9643	2.8	MAG: Madamur torque teno virus isolate MNB23_233_1202, complete genome	3477567	Anelloviridae		NA	2025/12/11
+140	PX373914.1	0.5238	1.0000	1.8	MAG: Madamur torque teno virus isolate MNB22_090_5396, complete genome	3477567	Anelloviridae		NA	2025/12/11
+141	OR583982.1	0.5238	1.0000	5.4	Microviridae sp. isolate Abbotsbury_2017_UTMF1505, complete genome	2202644			eukaryote	2026/04/11
+142	PV454212.1	0.5238	1.0000	2.6	Pontastacus leptodactylus alphanodavirus isolate C13-3553, complete genome	3446842	Nodaviridae	Alphanodavirus	NA	2025/10/01
+143	PX119325.1	0.5227	0.9474	1.9	MAG: Genomoviridae sp. isolate A148_26641, complete genome	2202565	Genomoviridae		eukaryote	2025/12/14
+144	NC_139379.1	0.5221	1.0000	14.3	Medicago sativa virus 1 isolate ZM1-NX2, complete genome	2978984	Rhabdoviridae	Deltanucleorhabdovirus	NA	2026/05/26
+145	PV685787.1	0.5217	1.0000	1.7	MAG: Circoviridae sp. isolate 224, complete genome	1954248	Nenyaviridae	Galvornvirus	unknown	2026/03/12
+146	PV585596.1	0.5211	1.0000	7.9	MAG: Culex Bunyavirus 2 isolate Aswan_CPC_Pool13, complete genome	2304499	Phenuiviridae	Mobuvirus	NA	2025/12/21
+147	PX374313.1	0.5208	0.9643	2.8	MAG: Madamur torque teno virus isolate MNB23_244_857, complete genome	3477567	Anelloviridae		NA	2025/12/11
+148	PX374191.1	0.5208	1.0000	2.3	MAG: Madamur torque teno virus isolate MNB22_125_1755, complete genome	3477567	Anelloviridae		NA	2025/12/11
+149	PX119445.1	0.5200	1.0000	2.3	MAG: Cosmacovirus isolate G105_51991, complete genome	2169659	Smacoviridae		NA	2025/12/14
+150	PX374272.1	0.5200	1.0000	2.7	MAG: Madamur torque teno virus isolate MNB23_171_1297, complete genome	3477567	Anelloviridae		NA	2025/12/11
+151	PX119462.1	0.5192	1.0000	2.5	MAG: Smacoviridae sp. isolate W143_29449, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+152	PX119448.1	0.5192	1.0000	2.8	MAG: Porprismacovirus isolate G109_31330, complete genome	2169663	Smacoviridae		NA	2025/12/14
+153	PV668481.1	0.5192	1.0000	2.5	Hepadnaviridae sp. isolate ITA/2025/289, complete genome	2809457	Hepadnaviridae		NA	2026/06/01
+154	PX121460.1	0.5188	1.0000	14.2	Lamium deltanucleorhabdovirus 1 isolate W120, complete genome	3478614	Rhabdoviridae	Deltanucleorhabdovirus	NA	2025/12/17
+155	PQ673598.1	0.5185	1.0000	3.0	Trieight totilivirus 1 isolate ISS 124, complete genome	NA	NA	NA	NA	2026/07/06
+156	PX374045.1	0.5185	0.9545	2.2	MAG: Madamur torque teno virus isolate MNB22_109_2975, complete genome	3477567	Anelloviridae		NA	2025/12/11
+157	PX374306.1	0.5179	0.9600	2.5	MAG: Madamur torque teno virus isolate MNB22_073_5970, complete genome	3477567	Anelloviridae		NA	2025/12/11
+158	PX962472.1	0.5179	0.8966	2.9	Fowl aviadenovirus E isolate IBH_MGH-AD02, complete genome	190065	Adenoviridae	Aviadenovirus	eukaryote	2026/05/05
+159	PX695504.1	0.5172	1.0000	1.9	Tick-associated circular virus-2 isolate CG1_B0203/Sylvia_atricapilla/Switzerland/2023, complete genome	2951484	Circoviridae		NA	2026/03/11
+160	PQ876383.1	0.5172	1.0000	8.0	Diplodia sapinea deltaflexivirus 1 isolate 138, complete genome	3570025	Deltaflexiviridae	Deltaflexivirus	NA	2026/01/18
+161	PV585613.1	0.5167	1.0000	6.3	MAG: Egypt associated virga-like virus 1 isolate Cairo_CP_Pool7, complete genome	3478329	Virgaviridae		NA	2025/12/21
+162	PX830480.1	0.5162	0.9926	13.6	Fuyun tick rhabdovirus isolate HT.BX3, complete genome	2977134	Rhabdoviridae	Gammaricinrhavirus	NA	2026/03/30
+163	PX119479.1	0.5152	0.9412	1.7	MAG: Genomoviridae sp. isolate B71_1169, complete genome	2202565	Genomoviridae		eukaryote	2025/12/14
+164	PX374221.1	0.5152	1.0000	3.0	MAG: Madamur torque teno virus isolate MNB22_050_3027, complete genome	3477567	Anelloviridae		NA	2025/12/11
+165	NC_139369.1	0.5139	0.9936	15.7	MAG: Alphanucleorhabdovirus xinjianensis isolate 193-k141_301243, complete genome	3426220	Rhabdoviridae	Alphanucleorhabdovirus	NA	2026/05/20
+166	PV585611.1	0.5139	1.0000	3.8	MAG: Egypt chrysovirus-like virus isolate Cairo_CP_Pool7, complete genome	3478330	Chrysoviridae		NA	2025/12/21
+167	PV472371.1	0.5138	1.0000	10.1	Partridge pegivirus strain ParPgV-A, complete genome	3467813	Hepaciviridae	Pegivirus	NA	2026/03/18
+168	NC_117182.1	0.5136	0.9934	15.1	Alphacytorhabdovirus sambuci isolate B15, complete genome	3426161	Rhabdoviridae	Alphacytorhabdovirus	NA	2026/05/26
+169	PQ220318.1	0.5135	1.0000	1.8	MAG: Wuhan Mosquito Virus 6 isolate VN6831CPR1, complete genome	1608131	Orthomyxoviridae	Quaranjavirus	NA	2026/01/02
+170	PX374168.1	0.5128	1.0000	2.0	MAG: Madamur torque teno virus isolate MNB23_257_1730, complete genome	3477567	Anelloviridae		NA	2025/12/11
+171	NC_139361.1	0.5128	1.0000	11.0	Killamcar virus 1 isolate PP32, complete genome	3042095	Rhabdoviridae	Uniorhavirus	NA	2026/05/19
+172	PX965433.1	0.5127	0.9873	7.9	Aconitum virus 2 isolate AcV2-Hebei, complete genome	3459864	Potyviridae	Potyvirus	NA	2026/06/29
+173	PX374019.1	0.5122	0.9474	1.9	MAG: Madamur torque teno virus isolate MNB22_125_1764, complete genome	3477567	Anelloviridae		NA	2025/12/11
+174	PX374547.1	0.5116	0.9600	2.5	MAG: Madamur torque teno virus isolate MNB22_089_3510, complete genome	3477567	Anelloviridae		NA	2025/12/11
+175	PZ377051.1	0.5111	0.9730	7.4	Prunus virus T isolate Puglia, complete genome	1472425	Betaflexiviridae	Tepovirus	eukaryote	2026/06/22
+176	PX373988.1	0.5111	0.9615	2.6	MAG: Madamur torque teno virus isolate MNB22_097_3875, complete genome	3477567	Anelloviridae		NA	2025/12/11
+177	PX373970.1	0.5111	0.9524	2.1	MAG: Madamur torque teno virus isolate MNB22_064_2306, complete genome	3477567	Anelloviridae		NA	2025/12/11
+178	OR583927.1	0.5109	1.0000	4.2	Microviridae sp. isolate Abbotsbury_2016_UTMF1046, complete genome	2202644			eukaryote	2026/04/11
+179	PX374553.1	0.5107	0.9944	17.8	MAG: Madamur torque teno virus isolate MNB23_229_2847, complete genome	3477567	Anelloviridae		NA	2025/12/11
+180	PX374266.1	0.5106	1.0000	3.6	MAG: Madamur torque teno virus isolate MNB23_270_1937, complete genome	3477567	Anelloviridae		NA	2025/12/11
+181	PX374265.1	0.5106	1.0000	3.6	MAG: Madamur torque teno virus isolate MNB23_263_2083, complete genome	3477567	Anelloviridae		NA	2025/12/11
+182	PX374013.1	0.5106	0.9630	2.7	MAG: Madamur torque teno virus isolate MNB22_103_2218, complete genome	3477567	Anelloviridae		NA	2025/12/11
+183	PX374421.1	0.5106	0.9565	2.3	MAG: Madamur torque teno virus isolate MNB23_258_3077, complete genome	3477567	Anelloviridae		NA	2025/12/11
+184	PX374409.1	0.5106	0.9565	2.3	MAG: Madamur torque teno virus isolate MNB23_183_708, complete genome	3477567	Anelloviridae		NA	2025/12/11
+185	PV685796.1	0.5106	1.0000	2.6	MAG: Genomoviridae sp. isolate pool 2_6, complete genome	2202565	Genomoviridae		eukaryote	2026/03/12
+186	PV585568.1	0.5104	1.0000	13.9	MAG: Guadeloupe Culex rhabdovirus isolate Cairo_CP_Pool7, complete genome	2607740	Rhabdoviridae	Stangrhavirus	NA	2025/12/21
+187	PX374205.1	0.5102	0.9615	2.6	MAG: Madamur torque teno virus isolate MNB23_208_5838, complete genome	3477567	Anelloviridae		NA	2025/12/11
+188	PX374072.1	0.5102	1.0000	3.1	MAG: Madamur torque teno virus isolate MNB23_209_3499, complete genome	3477567	Anelloviridae		NA	2025/12/11
+189	NC_116975.1	0.5099	1.0000	13.8	Strawberry virus 3 isolate Fragaria7, complete genome	2911488	Rhabdoviridae	Deltanucleorhabdovirus	NA	2026/05/26
+190	PX374364.1	0.5098	0.9615	2.6	MAG: Madamur torque teno virus isolate MNB22_114_3558, complete genome	3477567	Anelloviridae		NA	2025/12/11
+191	PX374144.1	0.5098	1.0000	1.5	MAG: Madamur torque teno virus isolate MNB23_247_1454, complete genome	3477567	Anelloviridae		NA	2025/12/11
+192	PX374004.1	0.5094	0.9286	1.4	MAG: Madamur torque teno virus isolate MNB22_073_6020, complete genome	3477567	Anelloviridae		NA	2025/12/11
+193	PX119404.1	0.5091	0.9000	2.0	MAG: Felismacovirus isolate B38_66959, complete genome	2842680	Smacoviridae		NA	2025/12/14
+194	ON791783.1	0.5089	0.9787	9.4	MAG: Grapevine rupestris stem pitting-associated virus isolate RSA-38-10_Kuhlmann_188-2_1, complete genome	196400	Betaflexiviridae	Foveavirus	eukaryote	2026/05/01
+195	PQ864032.1	0.5088	0.9922	12.8	Neuquenaphis staryi nudivirus 2, TGAAATCATTAGAAGCAGCGCATGATCCAATGGCCCCAGGATTTGCATTTGATACGAACTTGTTAACTAA	3467593	Nudiviridae		NA	2025/10/25
+196	PX119335.1	0.5088	1.0000	3.4	MAG: Genomoviridae sp. isolate B25_57590, complete genome	2202565	Genomoviridae		eukaryote	2025/12/14
+197	PQ673584.1	0.5084	1.0000	11.5	Trina Lispivirus 2 isolate ISS 10, complete genome	NA	NA	NA	NA	2026/07/06
+198	PX119478.1	0.5079	1.0000	3.3	MAG: Smacoviridae sp. isolate B47_1740, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+199	PV591950.1	0.5076	0.9780	9.1	Mayaro virus isolate 03043/MAYV/FG/1999-08-03, complete genome	59301	Togaviridae	Alphavirus	eukaryote	2026/05/05
+200	PV585577.1	0.5072	1.0000	8.4	MAG: Culex Bunyavirus 2 isolate Aswan_CPC_Pool9, complete genome	2304499	Phenuiviridae	Mobuvirus	NA	2025/12/21
+201	PQ673585.1	0.5063	1.0000	8.5	Tripa Lispivirus isolate ISS 1826, complete genome	NA	NA	NA	NA	2026/07/06
+202	OR583999.1	0.5055	0.9756	4.1	Microviridae sp. isolate Abbotsbury_2016_UTMF1695, complete genome	2202644			eukaryote	2026/04/11
+203	PX833263.1	0.5053	1.0000	6.8	Rhabdoviridae sp. isolate AnRhabV-SP_02, complete genome	1955137	Rhabdoviridae		eukaryote	2026/04/06
+204	OR583971.1	0.5051	1.0000	5.3	Microviridae sp. isolate Abbotsbury_2016_UTMF1367, complete genome	2202644			eukaryote	2026/04/11
+205	PX119427.1	0.5043	1.0000	4.3	MAG: Smacoviridae sp. isolate B82_10909, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+206	PZ135684.1	0.5029	1.0000	7.6	Salvia miltiorrhiza Carlavirus isolate SMCV-HN-101, complete genome	3720038	Betaflexiviridae	Carlavirus	NA	2026/06/16
+207	PV231801.1	0.5019	1.0000	13.9	Phortica variegata xinmovirus 1, complete genome	3447072	Xinmoviridae		NA	2025/10/19
+208	PX119463.1	0.5000	1.0000	3.7	MAG: Smacoviridae sp. isolate W143_127632, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+209	PX119409.1	0.5000	1.0000	2.8	MAG: Bovismacovirus isolate B44_81622, complete genome	2169575	Smacoviridae		NA	2025/12/14
+210	PX119401.1	0.5000	1.0000	3.3	MAG: Porprismacovirus isolate B34_61007, complete genome	2169663	Smacoviridae		NA	2025/12/14
+211	PX119389.1	0.5000	1.0000	2.5	MAG: Smacoviridae sp. isolate B28_83714, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+212	PX119386.1	0.5000	1.0000	2.5	MAG: Smacoviridae sp. isolate B26_61282, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+213	PX374404.1	0.5000	0.9524	2.1	MAG: Madamur torque teno virus isolate MNB23_210_1177, complete genome	3477567	Anelloviridae		NA	2025/12/11
+214	PX374383.1	0.5000	0.9583	2.4	MAG: Madamur torque teno virus isolate MNB23_171_1280, complete genome	3477567	Anelloviridae		NA	2025/12/11
+215	PX374360.1	0.5000	1.0000	2.8	MAG: Madamur torque teno virus isolate MNB22_098_2717, complete genome	3477567	Anelloviridae		NA	2025/12/11
+216	PX374330.1	0.5000	0.9524	2.1	MAG: Madamur torque teno virus isolate MNB23_257_1714, complete genome	3477567	Anelloviridae		NA	2025/12/11
+217	PX374277.1	0.5000	1.0000	3.5	MAG: Madamur torque teno virus isolate MNB23_242_240, complete genome	3477567	Anelloviridae		NA	2025/12/11
+218	PX374211.1	0.5000	1.0000	3.5	MAG: Madamur torque teno virus isolate MNB23_212_755, complete genome	3477567	Anelloviridae		NA	2025/12/11
+219	PX374147.1	0.5000	0.9730	3.7	MAG: Madamur torque teno virus isolate MNB22_075_4004, complete genome	3477567	Anelloviridae		NA	2025/12/11
+220	PZ135683.1	0.5000	1.0000	7.8	Salvia miltiorrhiza Carlavirus isolate SMCV-HN-99, complete genome	3720038	Betaflexiviridae	Carlavirus	NA	2026/06/16
+221	PX373995.1	0.5000	0.9333	1.5	MAG: Madamur torque teno virus isolate MNB22_042_2348, complete genome	3477567	Anelloviridae		NA	2025/12/11
+222	PX374010.1	0.5000	0.9600	2.5	MAG: Madamur torque teno virus isolate MNB22_098_2769, complete genome	3477567	Anelloviridae		NA	2025/12/11
+223	PX374014.1	0.5000	0.9474	1.9	MAG: Madamur torque teno virus isolate MNB22_105_1758, complete genome	3477567	Anelloviridae		NA	2025/12/11
+224	PX373977.1	0.5000	0.9565	2.3	MAG: Madamur torque teno virus isolate MNB23_172_713, complete genome	3477567	Anelloviridae		NA	2025/12/11
+225	PX373927.1	0.5000	1.0000	2.7	MAG: Madamur torque teno virus isolate MNB23_258_3162, complete genome	3477567	Anelloviridae		NA	2025/12/11
+226	PX374529.1	0.5000	0.9512	4.1	MAG: Madamur torque teno virus isolate MNB23_188_1585, complete genome	3477567	Anelloviridae		NA	2025/12/11
+227	PX374460.1	0.5000	0.9286	2.8	MAG: Madanes torque teno virus isolate MNB23_274_6370, complete genome	3477568	Anelloviridae		NA	2025/12/11
+228	PX373954.1	0.5000	0.8947	1.9	MAG: Madamur torque teno virus isolate MNB22_109_2983, complete genome	3477567	Anelloviridae		NA	2025/12/11
+229	PQ723724.1	0.5000	1.0000	1.2	Anagyrus aberiae phasmavirus 1 strain neg2.3, complete genome	3420430	NA	NA	NA	2026/05/12
+230	PX843016.1	0.5000	0.6364	2.2	Macochavirus sp. isolate I, complete genome	3695600	Pecoviridae	Macochavirus	NA	2026/03/22
+231	PX716994.1	0.5000	0.6818	2.2	Orthohepadnavirus hominoidei isolate LSG-269, complete genome	3431302	Hepadnaviridae	Orthohepadnavirus	NA	2026/02/17
+232	PX561080.1	0.5000	0.9890	9.1	Spartina mottle virus isolate TT2025-28, complete genome	190503	Potyviridae	Phragmivirus	eukaryote	2026/02/07
+233	PX121449.1	0.5000	1.0000	11.2	Capsicum alphacytorhabdovirus 1 isolate NPPO-NL_36109219, complete genome	3478596	Rhabdoviridae	Alphacytorhabdovirus	NA	2025/12/17
+234	ON408307.1	0.5000	1.0000	2.4	Duamitovirus wiri1 isolate 69-1, complete genome	3121381	Mitoviridae	Duamitovirus	NA	2026/01/01
+235	PV585572.1	0.5000	1.0000	8.3	MAG: Culex Bunyavirus 2 isolate Aswan_CPC_Pool1, complete genome	2304499	Phenuiviridae	Mobuvirus	NA	2025/12/21
+236	PV585563.1	0.5000	1.0000	7.8	MAG: Culex Bunyavirus 2 isolate Aswan_AC_Pool6, complete genome	2304499	Phenuiviridae	Mobuvirus	NA	2025/12/21
+237	PX121456.1	0.5000	1.0000	14.3	Ficus alphacytorhabdovirus 2 isolate NPPO-NL_39720435, complete genome	3478602	Rhabdoviridae	Alphacytorhabdovirus	NA	2025/12/17
+238	PX121455.1	0.5000	1.0000	14.2	Ficus alphacytorhabdovirus 2 isolate NPPO-NL_39380696, complete genome	3478602	Rhabdoviridae	Alphacytorhabdovirus	NA	2025/12/17
+239	PV765673.1	0.5000	1.0000	5.8	Caulimovirus sp. isolate B_6, complete genome	2692413	Caulimoviridae	Caulimovirus	NA	2025/12/17
+240	NC_117410.1	0.4981	1.0000	12.8	Daphne virus 1 isolate SK, complete genome	3002498	Rhabdoviridae	Alphacytorhabdovirus	NA	2026/05/26
+241	PX789318.1	0.4977	1.0000	10.5	Stenchaetothrips biformis rhabdo-like virus isolate hj_lab, complete genome	3679914	Rhabdoviridae		NA	2026/01/21
+242	NC_139378.1	0.4965	1.0000	13.0	Cytorhabdovirus tiliae isolate E54634 genome assembly, complete genome: monopartite	3004219	Rhabdoviridae	Betacytorhabdovirus	NA	2023/01/20
+243	PX241853.1	0.4964	1.0000	6.5	Marnaviridae sp. isolate SP_46102, complete genome	2715102	Marnaviridae		NA	2026/04/29
+244	PV585547.1	0.4963	1.0000	8.2	MAG: Culex Bunyavirus 2 isolate Cairo_CPC_Pool3, complete genome	2304499	Phenuiviridae	Mobuvirus	NA	2025/12/21
+245	OR583989.1	0.4957	1.0000	5.1	Microviridae sp. isolate Abbotsbury_2016_UTMF1609, complete genome	2202644			eukaryote	2026/04/11
+246	PX661620.1	0.4956	0.9655	5.8	Plant associated polerovirus 3 isolate JNO18-326, complete genome	2950827	Solemoviridae	Polerovirus	NA	2026/03/10
+247	PV935223.1	0.4951	0.9906	21.2	Ammi majus latent virus isolate CQ, complete genome	471359	Potyviridae	Potyvirus	NA	2026/05/09
+248	NC_131399.1	0.4947	0.9877	16.2	Meliandou mastomys virus strain GN/Meliandou/Me/1/2018, complete genome	2940987	Paramyxoviridae	Jeilongvirus	NA	2026/06/23
+249	NC_131414.1	0.4947	1.0000	15.8	Boana pugnax lyssa-like virus 1 strain Antioquia, complete genome	2985438	Rhabdoviridae	Amplylivirus	NA	2026/05/12
+250	PX512721.1	0.4946	0.9706	6.8	Carlavirus miphlocis isolate IVIA 188.1, complete genome	3427780	Betaflexiviridae	Carlavirus	NA	2026/01/28
+251	LC877252.1	0.4944	1.0000	5.4	Lachancea kluyveri virus L-A RNA, complete genome	3436047	Orthototiviridae	Totivirus	NA	2025/10/02
+252	PZ135680.1	0.4943	0.9877	8.1	Salvia miltiorrhiza Carlavirus isolate SMCV-HN-95, complete genome	3720038	Betaflexiviridae	Carlavirus	NA	2026/06/16
+253	PX119430.1	0.4941	1.0000	4.2	MAG: Porprismacovirus isolate B85_16612, complete genome	2169663	Smacoviridae		NA	2025/12/14
+254	PX374531.1	0.4940	0.9444	3.6	MAG: Madamur torque teno virus isolate MNB23_208_5035, complete genome	3477567	Anelloviridae		NA	2025/12/11
+255	OR584002.1	0.4940	1.0000	4.3	Microviridae sp. isolate Abbotsbury_2016_UTMF1695, complete genome	2202644			eukaryote	2026/04/11
+256	PX966951.1	0.4935	1.0000	9.0	Agrostis stolonifera deltaflexivirus 1 isolate Mungyeong, complete genome	2794416	Deltaflexiviridae	Deltaflexivirus	NA	2026/04/28
+257	PV585585.1	0.4931	1.0000	8.5	MAG: Culex Bunyavirus 2 isolate AI Qalyubia_CPC_Pool11, complete genome	2304499	Phenuiviridae	Mobuvirus	NA	2025/12/21
+258	PX570700.1	0.4928	1.0000	13.0	Millet vein swelling mosaic virus isolate SXCZ-1, complete genome	3681758			NA	2026/01/31
+259	PX480013.1	0.4924	1.0000	6.6	Cotesia chilonis qin-like virus isolate D, complete genome	3467831	Qinviridae		NA	2025/11/08
+260	PQ723729.1	0.4922	1.0000	8.8	Anagyrus vladimiri totivirus 1 strain ds1, complete genome	3420438	NA	NA	NA	2026/05/12
+261	PQ824772.1	0.4922	0.8590	7.8	Cnaphalocrocis medinalis granulovirus isolate DH2018091306, complete genome	1750712	Baculoviridae	Betabaculovirus	eukaryote	2025/11/10
+262	PX561081.1	0.4918	0.9892	9.3	Spartina mottle virus isolate TT2025-29, complete genome	190503	Potyviridae	Phragmivirus	eukaryote	2026/02/07
+263	PX121451.1	0.4918	0.9773	4.4	Capsicum trirhavirus 1 isolate NPPO-NL_24070172, complete genome	3478610	Rhabdoviridae	Trirhavirus	NA	2025/12/17
+264	PX374143.1	0.4909	1.0000	2.5	MAG: Madamur torque teno virus isolate MNB23_219_1346, complete genome	3477567	Anelloviridae		NA	2025/12/11
+265	PX374241.1	0.4906	0.9677	3.1	MAG: Madamur torque teno virus isolate MNB23_171_1301, complete genome	3477567	Anelloviridae		NA	2025/12/11
+266	PV585541.1	0.4904	1.0000	4.4	MAG: Culex Bunyavirus 2 isolate Aswan_CPC_Pool2, complete genome	2304499	Phenuiviridae	Mobuvirus	NA	2025/12/21
+267	PV053868.1	0.4903	1.0000	13.1	Hefer Valley virus strain ISR-1586/24, complete genome	3035973	Rhabdoviridae	Ephemerovirus	NA	2026/02/01
+268	PX374304.1	0.4902	0.9655	2.9	MAG: Madamur torque teno virus isolate MNB22_049_3667, complete genome	3477567	Anelloviridae		NA	2025/12/11
+269	PX374523.1	0.4898	0.9487	3.9	MAG: Madamur torque teno virus isolate MNB23_244_838, complete genome	3477567	Anelloviridae		NA	2025/12/11
+270	PX374426.1	0.4896	0.9815	5.4	MAG: Madamur torque teno virus isolate MNB22_093_1620, complete genome	3477567	Anelloviridae		NA	2025/12/11
+271	PX939710.1	0.4896	1.0000	9.2	Citrus leaf blotch virus isolate SK, complete genome	129141	Betaflexiviridae	Citrivirus	eukaryote	2026/04/28
+272	PX119328.1	0.4894	0.9583	2.4	MAG: Gemycircularvirus isolate B23_13713, complete genome	1542744	Genomoviridae		NA	2025/12/14
+273	PX374388.1	0.4894	0.9545	2.2	MAG: Madamur torque teno virus isolate MNB23_208_5747, complete genome	3477567	Anelloviridae		NA	2025/12/11
+274	PX374281.1	0.4894	0.9630	2.7	MAG: Madamur torque teno virus isolate MNB22_073_5978, complete genome	3477567	Anelloviridae		NA	2025/12/11
+275	PX374176.1	0.4894	1.0000	3.5	MAG: Madamur torque teno virus isolate MNB22_067_2788, complete genome	3477567	Anelloviridae		NA	2025/12/11
+276	PX374076.1	0.4894	1.0000	3.0	MAG: Madamur torque teno virus isolate MNB23_231_2835, complete genome	3477567	Anelloviridae		NA	2025/12/11
+277	NC_139376.1	0.4894	0.9919	12.4	MAG: Pastinaca cytorhabdovirus 1 isolate POR19SW, complete genome	2950847	Rhabdoviridae	Alphacytorhabdovirus	NA	2026/05/26
+278	PV685789.1	0.4894	0.9524	2.1	MAG: Genomoviridae sp. isolate pool 2_1, complete genome	2202565	Genomoviridae		eukaryote	2026/03/12
+279	PX550111.1	0.4892	0.9923	13.0	Stachys betacytorhabdovirus 2 isolate NPPO-NL_5909889, complete genome	3478588	Rhabdoviridae	Betacytorhabdovirus	NA	2025/12/17
+280	PX121436.1	0.4892	1.0000	6.6	Achillea deltanucleorhabdovirus 1 isolate NPPO-NL_6166765, complete genome	3478612	Rhabdoviridae	Deltanucleorhabdovirus	NA	2025/12/17
+281	PX374402.1	0.4889	0.9583	2.4	MAG: Madamur torque teno virus isolate MNB23_182_912, complete genome	3477567	Anelloviridae		NA	2025/12/11
+282	PX374305.1	0.4889	0.9600	2.5	MAG: Madamur torque teno virus isolate MNB22_071_2307, complete genome	3477567	Anelloviridae		NA	2025/12/11
+283	PX374259.1	0.4889	1.0000	2.2	MAG: Madamur torque teno virus isolate MNB23_229_3231, complete genome	3477567	Anelloviridae		NA	2025/12/11
+284	PX374129.1	0.4889	1.0000	2.4	MAG: Madamur torque teno virus isolate MNB22_099_2833, complete genome	3477567	Anelloviridae		NA	2025/12/11
+285	PX549190.1	0.4885	0.9943	17.5	Agave-associated crinivirus A isolate S28472, complete genome	3725445	Closteroviridae	Crinivirus	NA	2026/06/22
+286	PX374390.1	0.4884	1.0000	2.5	MAG: Madamur torque teno virus isolate MNB23_227_1931, complete genome	3477567	Anelloviridae		NA	2025/12/11
+287	PX374017.1	0.4884	0.9375	1.6	MAG: Madamur torque teno virus isolate MNB22_114_3618, complete genome	3477567	Anelloviridae		NA	2025/12/11
+288	PX374183.1	0.4878	0.9714	3.5	MAG: Madamur torque teno virus isolate MNB22_097_3853, complete genome	3477567	Anelloviridae		NA	2025/12/11
+289	PX374153.1	0.4878	0.9630	2.7	MAG: Madamur torque teno virus isolate MNB22_122_2070, complete genome	3477567	Anelloviridae		NA	2025/12/11
+290	PX373991.1	0.4878	0.9677	3.1	MAG: Madamur torque teno virus isolate MNB22_109_2979, complete genome	3477567	Anelloviridae		NA	2025/12/11
+291	NC_139371.1	0.4877	1.0000	13.8	MAG: Tomato betanucleorhabdovirus 1 isolate BER19ST2, complete genome	2950850	Rhabdoviridae	Betanucleorhabdovirus	NA	2026/05/26
+292	OR583938.1	0.4875	1.0000	4.0	Microviridae sp. isolate Abbotsbury_2016_UTMF1095, complete genome	2202644			eukaryote	2026/04/11
+293	PX374352.1	0.4872	0.9524	2.1	MAG: Madamur torque teno virus isolate MNB23_189_1221, complete genome	3477567	Anelloviridae		NA	2025/12/11
+294	PX374342.1	0.4872	0.9600	2.5	MAG: Madamur torque teno virus isolate MNB22_045_5343, complete genome	3477567	Anelloviridae		NA	2025/12/11
+295	PX374341.1	0.4872	0.9667	3.0	MAG: Madamur torque teno virus isolate MNB23_202_9135, complete genome	3477567	Anelloviridae		NA	2025/12/11
+296	PX374540.1	0.4872	0.9412	1.7	MAG: Madamur torque teno virus isolate MNB23_226_2833, complete genome	3477567	Anelloviridae		NA	2025/12/11
+297	PX121441.1	0.4872	1.0000	11.5	Asparagales alphanucleorhabdovirus 1 isolate NPPO-NL_33478182, complete genome	3479778	Rhabdoviridae	Alphanucleorhabdovirus	NA	2025/12/17
+298	PX374817.1	0.4872	0.9972	71.6	MAG: Virus sp. isolate MT83_5, complete genome	2202649			NA	2026/02/04
+299	PQ673590.1	0.4870	1.0000	8.3	Tripa totilivirus isolate ISS 1826, complete genome	NA	NA	NA	NA	2026/07/06
+300	PX374334.1	0.4865	0.9524	2.1	MAG: Madamur torque teno virus isolate MNB22_075_3956, complete genome	3477567	Anelloviridae		NA	2025/12/11
+301	PX374533.1	0.4865	0.9375	1.6	MAG: Madamur torque teno virus isolate MNB22_050_2675, complete genome	3477567	Anelloviridae		NA	2025/12/11
+302	PZ305744.1	0.4864	0.9787	9.4	Dakar bat virus strain BP180, complete genome	64282	Flaviviridae	Orthoflavivirus	NA	2026/06/22
+303	PZ135687.1	0.4863	1.0000	8.0	Salvia miltiorrhiza Carlavirus isolate SMCV-HN-105, complete genome	3720038	Betaflexiviridae	Carlavirus	NA	2026/06/16
+304	PZ155423.1	0.4859	0.9828	5.8	Jasmine virus T strain Iraq-1, complete genome	1775963	Potyviridae	Potyvirus	eukaryote	2026/06/09
+305	PV231819.1	0.4858	1.0000	12.4	Schistocerca americana xinmovirus 1, complete genome	3447089	Xinmoviridae		NA	2025/10/19
+306	PX705383.1	0.4852	1.0000	9.0	Beech carlavirus isolate WAG0453175, complete genome	3478933	Betaflexiviridae	Carlavirus	NA	2026/03/10
+307	LC898744.1	0.4851	0.9552	6.7	Teschovirus A8 Tescho_A8/tc/Pig/Japan/Uchi-19/2019 genomic RNA, nearly complete genome	363168	Picornaviridae	Teschovirus	eukaryote	2025/10/30
+308	PX373975.1	0.4848	0.9565	2.3	MAG: Madamur torque teno virus isolate MNB22_124_3331, complete genome	3477567	Anelloviridae		NA	2025/12/11
+309	PX121465.1	0.4844	1.0000	17.3	Rubus betacytorhabdovirus 1 isolate 24/0402, complete genome	3478607	Rhabdoviridae	Betacytorhabdovirus	NA	2025/12/17
+310	PX315771.1	0.4842	1.0000	5.5	Tebenquiche spindle-shaped Virus 1 isolate Tebi-SV1, complete genome	3464245	Pleolipoviridae	Betapleolipovirus	NA	2025/10/01
+311	PX233325.1	0.4840	0.9942	17.1	Philaenus spumarius nidovirus 1 isolate Ps_val, complete genome	3467821			NA	2025/12/10
+312	PZ135681.1	0.4839	1.0000	7.4	Salvia miltiorrhiza Carlavirus isolate SMCV-HN-97, complete genome	3720038	Betaflexiviridae	Carlavirus	NA	2026/06/16
+313	PX373961.1	0.4839	0.9048	2.1	MAG: Madamur torque teno vAGGAGAACCGAGATCCCGCTCCTCCGC	3477567	Anelloviridae		NA	2025/12/11
+314	NC_139375.1	0.4836	1.0000	10.8	Soybean blotchy mosaic virus isolate 21-0287, complete genome	576352	Rhabdoviridae	Betacytorhabdovirus	NA	2026/05/26
+315	OR583936.1	0.4835	1.0000	4.9	Microviridae sp. isolate Abbotsbury_2016_UTMF1095, complete genome	2202644			eukaryote	2026/04/11
+316	NC_117252.1	0.4833	1.0000	12.7	Hyptis latent virus, complete genome	2963947	Rhabdoviridae	Alphacytorhabdovirus	NA	2026/05/26
+317	PZ018871.1	0.4826	0.9397	11.6	Leek yellow stripe virus isolate LYSV-TRv1, complete genome	42004	Potyviridae	Potyvirus	eukaryote	2026/05/18
+318	NC_117173.1	0.4823	0.9949	19.5	Memana virus strain GN/Meliandou/Mn/1/2018, complete genome	2940997	Paramyxoviridae	Jeilongvirus	NA	2026/06/16
+319	LC900355.1	0.4822	1.0000	9.8	MAG: Dicistroviridae sp. Dicistro/wt/Wild_Boar/Japan/Ishi-10-3/2022 genomic RNA, nearly complete genome	1955144	Dicistroviridae		NA	2025/11/11
+320	PX374238.1	0.4821	1.0000	1.9	MAG: Madamur torque teno virus isolate MNB22_127_865, complete genome	3477567	Anelloviridae		NA	2025/12/11
+321	PV475163.1	0.4821	1.0000	2.4	MAG: Virus sp. isolate LBaCV-24, complete genome	2202649			NA	2026/01/13
+322	LC888361.1	0.4816	0.9871	15.5	Avian paramyxovirus 1 NDV/duck/Tottori/K4/2014 RNA, complete genome	2560319	Paramyxoviridae	Orthoavulavirus	eukaryote	2026/04/02
+323	PX374254.1	0.4815	0.9677	3.1	MAG: Madamur torque teno virus isolate MNB23_210_1244, complete genome	3477567	Anelloviridae		NA	2025/12/11
+324	PX374120.1	0.4815	0.9583	2.4	MAG: Madamur torque teno virus isolate MNB23_215_1233, complete genome	3477567	Anelloviridae		NA	2025/12/11
+325	OR583933.1	0.4808	1.0000	4.3	Microviridae sp. isolate Abbotsbury_2016_UTMF1095, complete genome	2202644			eukaryote	2026/04/11
+326	PZ135682.1	0.4807	0.9870	7.7	Salvia miltiorrhiza Carlavirus isolate SMCV-HN-98, complete genome	3720038	Betaflexiviridae	Carlavirus	NA	2026/06/16
+327	PQ316599.2	0.4803	0.9819	16.6	MAG: Notorynchus cepedianus adomavirus isolate 7AdoV, complete genome	3366345			NA	2026/02/28
+328	PV231821.1	0.4802	1.0000	11.0	Aularches miliaris xinmovirus 1, complete genome	3447091	Xinmoviridae		NA	2025/10/19
+329	PX374564.1	0.4800	1.0000	2.8	MAG: Madalem torque teno virus isolate MNB22_052_2739, complete genome	3477566	Anelloviridae		NA	2025/12/11
+330	PV585614.1	0.4800	1.0000	2.3	MAG: Egypt obamo-like virus 1 isolate Cairo_CP_Pool7, complete genome	3478334			NA	2025/12/21
+331	NC_116313.1	0.4793	0.9815	5.4	TPA: Cardamom polerovirus isolate Kerala, complete genome	2754871	Solemoviridae	Polerovirus	NA	2026/05/12
+332	PV668479.1	0.4792	0.9091	2.2	Hepadnaviridae sp. isolate ITA/2025/700, complete genome	2809457	Hepadnaviridae		NA	2026/06/01
+333	OR583997.1	0.4792	1.0000	4.5	Microviridae sp. isolate Abbotsbury_2016_UTMF1695, complete genome	2202644			eukaryote	2026/04/11
+334	OR583942.1	0.4792	1.0000	4.2	Microviridae sp. isolate Abbotsbury_2016_UTMF1136, complete genome	2202644			eukaryote	2026/04/11
+335	PX121466.1	0.4788	0.9915	11.8	Sedum alphacytorhabdovirus 1 isolate NPPO-NL_42336637, complete genome	3478601	Rhabdoviridae	Alphacytorhabdovirus	NA	2025/12/17
+336	PV528072.1	0.4787	0.9211	15.2	Aphis iflavirus isolate Buddleja, complete genome	3467794	NA	NA	NA	2026/05/31
+337	PX119475.1	0.4783	1.0000	2.2	MAG: Cressdnaviricota sp. isolate B26_44603, complete genome	2748378			eukaryote	2025/12/14
+338	PX374030.1	0.4783	1.0000	1.7	MAG: Madamur torque teno virus isolate MNB23_210_1205, complete genome	3477567	Anelloviridae		NA	2025/12/11
+339	PV585581.1	0.4783	1.0000	8.0	MAG: Culex Bunyavirus 2 isolate Giza_CPC_Pool10, complete genome	2304499	Phenuiviridae	Mobuvirus	NA	2025/12/21
+340	PX374319.1	0.4773	0.9643	2.8	MAG: Madamur torque teno virus isolate MNB23_178_2168, complete genome	3477567	Anelloviridae		NA	2025/12/11
+341	OR583985.1	0.4773	1.0000	5.4	Microviridae sp. isolate Abbotsbury_2016_UTMF1542, complete genome	2202644			eukaryote	2026/04/11
+342	PV567395.1	0.4769	1.0000	6.4	Gynura bicolor-associated virus isolate 23HN_GyBi2, complete genome	3711792			NA	2026/05/23
+343	PX718879.1	0.4763	0.9306	17.3	Gyrovirus galga1 isolate SD2024-14, complete genome	2844800	Anelloviridae	Gyrovirus	NA	2026/01/26
+344	PX374103.1	0.4762	0.9630	2.7	MAG: Madamur torque teno virus isolate MNB22_101_2788, complete genome	3477567	Anelloviridae		NA	2025/12/11
+345	PX373949.1	0.4762	0.9565	2.3	MAG: Madamur torque teno virus isolate MNB22_091_5867, complete genome	3477567	Anelloviridae		NA	2025/12/11
+346	PV685792.1	0.4762	0.9167	2.4	MAG: Genomoviridae sp. isolate pool 2_4, complete genome	2202565	Genomoviridae		eukaryote	2026/03/12
+347	PZ305741.1	0.4753	0.9890	9.1	Aroa virus strain Macaray 01809, complete genome	64303	Flaviviridae	Orthoflavivirus	eukaryote	2026/06/22
+348	ON263576.1	0.4753	1.0000	8.8	Alternaria tenuissima deltaflexivirus 1 isolate SC-8, complete genome	3021683	Deltaflexiviridae	Deltaflexivirus	NA	2025/12/06
+349	PQ723726.1	0.4752	1.0000	7.6	Anagyrus aberiae phasmavirus 1 strain neg2.1, complete genome	3420430	NA	NA	NA	2026/05/12
+350	PX374102.1	0.4750	0.9667	3.0	MAG: Madamur torque teno virus isolate MNB22_095_2633, complete genome	3477567	Anelloviridae		NA	2025/12/11
+351	PX373919.1	0.4750	1.0000	2.3	MAG: Madamur torque teno virus isolate MNB23_210_1213, complete genome	3477567	Anelloviridae		NA	2025/12/11
+352	PX374536.1	0.4750	0.9565	2.3	MAG: Madamur torque teno virus isolate MNB23_184_1519, complete genome	3477567	Anelloviridae		NA	2025/12/11
+353	OR584005.1	0.4750	1.0000	4.9	Microviridae sp. isolate Abbotsbury_2016_UTMF1388r2, complete genome	2202644			eukaryote	2026/04/11
+354	PZ012665.1	0.4748	0.9886	8.8	Camellia ringspot associated virus 3 isolate 780_Campolieto, complete genome	2606571	Betaflexiviridae		NA	2026/05/12
+355	NC_139368.1	0.4746	1.0000	12.5	MAG: Tomato alphanucleorhabdovirus 1 isolate BER20ST1, complete genome	2950883	Rhabdoviridae	Alphanucleorhabdovirus	NA	2026/05/20
+356	PX374253.1	0.4737	1.0000	3.2	MAG: Madamur torque teno virus isolate MNB23_210_1230, complete genome	3477567	Anelloviridae		NA	2025/12/11
+357	PX843014.1	0.4737	0.4545	2.2	Macochavirus sp. isolate G, complete genome	3695600	Pecoviridae	Macochavirus	NA	2026/03/22
+358	PX374068.1	0.4727	0.9500	2.0	MAG: Madamur torque teno virus isolate MNB23_165_5140, complete genome	3477567	Anelloviridae		NA	2025/12/11
+359	PX374023.1	0.4727	0.9412	1.7	MAG: Madamur torque teno virus isolate MNB23_172_709, complete genome	3477567	Anelloviridae		NA	2025/12/11
+360	PX843012.1	0.4727	0.6250	2.4	Macochavirus sp. isolate E, complete genome	3695600	Pecoviridae	Macochavirus	NA	2026/03/22
+361	PV695571.1	0.4721	1.0000	13.5	Parsley alphacytorhabdovirus 1 isolate 130948, complete genome	3455377	Rhabdoviridae	Alphacytorhabdovirus	NA	2026/02/15
+362	PV470911.1	0.4719	1.0000	12.0	Yunxiao leafhopper virus 1, complete genome	3467853	Xinmoviridae	Alasvirus	NA	2025/11/04
+363	OR583926.1	0.4719	1.0000	6.1	Microviridae sp. isolate Abbotsbury_2016_UTMF1007, complete genome	2202644			eukaryote	2026/04/11
+364	PX374016.1	0.4717	0.9545	2.2	MAG: Madamur torque teno virus isolate MNB22_112_3330, complete genome	3477567	Anelloviridae		NA	2025/12/11
+365	PZ135686.1	0.4712	0.9873	7.9	Salvia miltiorrhiza Carlavirus isolate SMCV-HN-103, complete genome	3720038	Betaflexiviridae	Carlavirus	NA	2026/06/16
+366	NC_116974.1	0.4710	1.0000	14.7	Strawberry virus 2 isolate CFRA9094, complete genome	2911487	Rhabdoviridae	Alphacytorhabdovirus	NA	2026/05/26
+367	PX374028.1	0.4706	0.9474	1.9	MAG: Madamur torque teno virus isolate MNB23_209_3505, complete genome	3477567	Anelloviridae		NA	2025/12/11
+368	PX374459.1	0.4706	0.9259	2.7	MAG: Madanes torque teno virus isolate MNB23_273_4832, complete genome	3477568	Anelloviridae		NA	2025/12/11
+369	PV454210.1	0.4701	0.7458	5.9	Pontastacus leptodactylus hepevirus isolate C6-8, complete genome	3446841	Hepeviridae	Orthohepevirus	NA	2025/10/01
+370	PX701124.1	0.4699	0.9798	9.9	Passion fruit yellow spot virus isolate RE-PA7-24, complete genome	3688263			NA	2026/03/10
+371	OR583924.1	0.4699	1.0000	4.8	Microviridae sp. isolate Abbotsbury_2016_UTMF1007, complete genome	2202644			eukaryote	2026/04/11
+372	PX462917.1	0.4697	1.0000	20.4	Parahenipavirus type Allevard isolate La Chapelle #459, complete genome	3404837	Paramyxoviridae	Parahenipavirus	NA	2025/10/25
+373	PX119426.1	0.4694	1.0000	3.0	MAG: Smacoviridae sp. isolate B82_1, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+374	PX374385.1	0.4694	0.9643	2.8	MAG: Madamur torque teno virus isolate MNB23_183_710, complete genome	3477567	Anelloviridae		NA	2025/12/11
+375	PV475162.1	0.4694	1.0000	0.8	MAG: Virus sp. isolate LBaCV-9, complete genome	2202649			NA	2026/01/13
+376	OZ335796.1	0.4693	0.9892	9.3	Ista virus strain UKMosq_149, complete genome	2651930	Picornaviridae		NA	2025/10/31
+377	PX119339.1	0.4688	0.9333	1.5	MAG: Gemycircularvirus isolate B39_55106, complete genome	1542744	Genomoviridae		NA	2025/12/14
+378	PX512722.1	0.4688	0.9429	7.0	Carlavirus miphlocis isolate IVIA 188.13, complete genome	3427780	Betaflexiviridae	Carlavirus	NA	2026/01/28
+379	PX119429.1	0.4681	1.0000	2.0	MAG: Porprismacovirus isolate B83_11048, complete genome	2169663	Smacoviridae		NA	2025/12/14
+380	PX374021.1	0.4681	0.9412	1.7	MAG: Madamur torque teno virus isolate MNB23_165_5152, complete genome	3477567	Anelloviridae		NA	2025/12/11
+381	PX373993.1	0.4681	1.0000	1.7	MAG: Madamur torque teno virus isolate MNB23_215_1235, complete genome	3477567	Anelloviridae		NA	2025/12/11
+382	LC900347.1	0.4681	1.0000	1.6	MAG: Dicistroviridae sp. Dicistro/wt/Wild_Boar/Japan/Toya-13-1/2019 genomic RNA, nearly complete genome	1955144	Dicistroviridae		NA	2025/11/11
+383	PX121462.1	0.4679	1.0000	12.0	Mentha alphacytorhabdovirus 2 isolate NPPO-NL_32653962, complete genome	3478599	Rhabdoviridae	Alphacytorhabdovirus	NA	2025/12/17
+384	PX701126.1	0.4677	0.9528	10.6	Cowpea aphid-borne mosaic virus isolate RE-PA9-24, complete genome	12199	Potyviridae	Potyvirus	eukaryote	2026/03/10
+385	OR583977.1	0.4675	0.9821	5.6	Microviridae sp. isolate Abbotsbury_2017_UTMF1498, complete genome	2202644			eukaryote	2026/04/11
+386	PQ673599.1	0.4672	1.0000	6.6	Trieight totilivirus 2 isolate ISS 124, complete genome	NA	NA	NA	NA	2026/07/06
+387	PX374337.1	0.4667	0.9615	2.6	MAG: Madamur torque teno virus isolate MNB22_103_2231, complete genome	3477567	Anelloviridae		NA	2025/12/11
+388	PX374078.1	0.4667	0.9730	3.7	MAG: Madamur torque teno virus isolate MNB23_258_3143, complete genome	3477567	Anelloviridae		NA	2025/12/11
+389	PX374051.1	0.4667	0.9630	2.7	MAG: Madamur torque teno virus isolate MNB22_090_4811, complete genome	3477567	Anelloviridae		NA	2025/12/11
+390	PV231800.1	0.4667	1.0000	13.6	Sitophilus linearis xinmovirus 1, complete genome	3447071	Xinmoviridae		NA	2025/10/19
+391	LC895898.1	0.4667	1.0000	1.7	MAG: Unidentified virus HsOb_H5 RNA, nearly complete genome	1214906			NA	2025/10/09
+392	PV591949.1	0.4663	0.9266	10.9	Mayaro virus isolate 12049/MAYV/FG/2000-04-12, complete genome	59301	Togaviridae	Alphavirus	eukaryote	2026/05/05
+393	PQ723719.1	0.4660	1.0000	5.5	Anagyrus vladimiri reovirus strain ds2, complete genome	2992174			NA	2026/05/12
+394	PX310200.1	0.4660	1.0000	19.7	Fig virus C isolate FiVC_IA, complete genome	3463638			NA	2025/09/24
+395	PX374262.1	0.4656	1.0000	6.4	MAG: Madamur torque teno virus isolate MNB23_244_860, complete genome	3477567	Anelloviridae		NA	2025/12/11
+396	PX119380.1	0.4655	1.0000	2.7	MAG: Smacoviridae sp. isolate B22_21638, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+397	NC_139283.1	0.4653	0.9600	5.0	Grapevine polerovirus 1 KC RNA, complete genome	2696999	Solemoviridae	Polerovirus	NA	2026/05/13
+398	PX119472.1	0.4651	1.0000	1.8	MAG: Bovismacovirus isolate W146_72798, complete genome	2169575	Smacoviridae		NA	2025/12/14
+399	PX119458.1	0.4651	1.0000	3.8	MAG: Smacoviridae sp. isolate W142_79348, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+400	PX374271.1	0.4651	0.9655	2.9	MAG: Madamur torque teno virus isolate MNB23_165_5115, complete genome	3477567	Anelloviridae		NA	2025/12/11
+401	PX374112.1	0.4651	1.0000	2.1	MAG: Madamur torque teno virus isolate MNB23_178_2181, complete genome	3477567	Anelloviridae		NA	2025/12/11
+402	PX373992.1	0.4651	0.9500	2.0	MAG: Madamur torque teno virus isolate MNB23_207_2398, complete genome	3477567	Anelloviridae		NA	2025/12/11
+403	PX374034.1	0.4651	1.0000	1.9	MAG: Madamur torque teno virus isolate MNB23_226_3199, complete genome	3477567	Anelloviridae		NA	2025/12/11
+404	PX373948.1	0.4651	0.9714	3.5	MAG: Madamur torque teno virus isolate MNB22_089_3978, complete genome	3477567	Anelloviridae		NA	2025/12/11
+405	NC_117167.1	0.4651	0.9896	19.3	Ninove microtus virus strain BE/Ninove/Mag/1/2019, complete genome	2940990	Paramyxoviridae	Jeilongvirus	NA	2026/06/22
+406	NC_117394.1	0.4649	1.0000	11.8	Alphacytorhabdovirus ribes isolate BcCRV1/KB1, complete genome	3426159	Rhabdoviridae	Alphacytorhabdovirus	NA	2026/05/26
+407	PV231803.1	0.4649	1.0000	10.9	Toxorhynchites amboinensis xinmovirus 1, complete genome	3447074	Xinmoviridae		NA	2025/10/19
+408	PP620726.1	0.4646	0.9718	7.1	Prunus virus T isolate IR-PrVT, complete genome	1472425	Betaflexiviridae	Tepovirus	eukaryote	2025/10/08
+409	PP736770.1	0.4646	0.9718	7.1	Prunus virus T isolate Qz5, complete genome	1472425	Betaflexiviridae	Tepovirus	eukaryote	2025/09/30
+410	PZ135685.1	0.4645	1.0000	8.1	Salvia miltiorrhiza Carlavirus isolate SMCV-HN-102, complete genome	3720038	Betaflexiviridae	Carlavirus	NA	2026/06/16
+411	PX119452.1	0.4643	0.9643	2.8	MAG: Felismacovirus isolate T125_54468, complete genome	2842680	Smacoviridae		NA	2025/12/14
+412	PZ135698.1	0.4639	0.9898	9.8	Cowpea mild mottle virus isolate CPMMV-HN-05, complete genome	67761	Betaflexiviridae	Carlavirus	eukaryote	2026/06/16
+413	LC898736.1	0.4638	0.8158	3.8	Teschovirus A5 Tescho_A5/tc/Wild_Boar/Japan/Toya-20/2023 genomic RNA, nearly complete genome	138682	Picornaviridae	Teschovirus	NA	2025/10/30
+414	PX374415.1	0.4634	0.9583	2.4	MAG: Madamur torque teno virus isolate MNB22_095_2590, complete genome	3477567	Anelloviridae		NA	2025/12/11
+415	PX374413.1	0.4634	1.0000	2.8	MAG: Madamur torque teno virus isolate MNB23_244_843, complete genome	3477567	Anelloviridae		NA	2025/12/11
+416	NC_117269.1	0.4630	1.0000	14.1	Rudbeckia virus 1 isolate PQ, complete genome	2971904	Rhabdoviridae	Betacytorhabdovirus	NA	2026/05/26
+417	PX374225.1	0.4630	0.9643	2.8	MAG: Madamur torque teno virus isolate MNB22_072_5841, complete genome	3477567	Anelloviridae		NA	2025/12/11
+418	PZ207404.1	0.4624	1.0000	8.6	Bean yellow mosaic virus isolate DSMZ PV-0471, complete genome	NA	NA	NA	NA	2026/07/06
+419	PQ888429.1	0.4623	0.9879	49.6	Dormouse torovirus strain Spa/2022, complete genome	3466603	Tobaniviridae	Torovirus	NA	2025/10/04
+420	PX121438.1	0.4623	0.9926	13.6	Artemisia betanucleorhabdovirus 2 isolate NPPO-NL_6166992, complete genome	3478605	Rhabdoviridae	Betacytorhabdovirus	NA	2025/12/17
+421	PX121447.1	0.4619	1.0000	13.9	Buckwheat alphacytorhabdovirus isolate FAGO, complete genome	3478595	Rhabdoviridae	Alphacytorhabdovirus	NA	2025/12/17
+422	PX119330.1	0.4615	0.8571	2.8	MAG: Gemycircularvirus isolate B24_3364, complete genome	1542744	Genomoviridae		NA	2025/12/14
+423	PX374293.1	0.4615	0.9600	2.5	MAG: Madamur torque teno virus isolate MNB22_090_4784, complete genome	3477567	Anelloviridae		NA	2025/12/11
+424	PX374242.1	0.4615	1.0000	1.8	MAG: Madamur torque teno virus isolate MNB23_172_703, complete genome	3477567	Anelloviridae		NA	2025/12/11
+425	PX373984.1	0.4615	0.9677	3.1	MAG: Madamur torque teno virus isolate MNB22_063_5325, complete genome	3477567	Anelloviridae		NA	2025/12/11
+426	PX373946.1	0.4615	1.0000	2.6	MAG: Madamur torque teno virus isolate MNB22_077_7062, complete genome	3477567	Anelloviridae		NA	2025/12/11
+427	PX374541.1	0.4615	0.9375	1.6	MAG: Madamur torque teno virus isolate MNB23_241_2024, complete genome	3477567	Anelloviridae		NA	2025/12/11
+428	PX374284.1	0.4615	0.9697	3.3	MAG: Madamur torque teno virus isolate MNB23_202_9275, complete genome	3477567	Anelloviridae		NA	2025/12/11
+429	NC_139373.1	0.4615	1.0000	16.1	MAG: Betanucleorhabdovirus picridis isolate SKO20SW, complete genome	3427244	Rhabdoviridae	Betanucleorhabdovirus	NA	2026/05/26
+430	NC_116528.1	0.4615	1.0000	6.9	Miscanthus yellow fleck virus isolate PGQP1, complete genome	2777538	Solemoviridae	Polerovirus	NA	2026/05/18
+431	PV685794.1	0.4615	1.0000	1.9	MAG: Genomoviridae sp. isolate pool 2_5, complete genome	2202565	Genomoviridae		eukaryote	2026/03/12
+432	OR584000.1	0.4607	1.0000	4.0	Microviridae sp. isolate Abbotsbury_2016_UTMF1695, complete genome	2202644			eukaryote	2026/04/11
+433	PZ014972.1	0.4603	1.0000	2.9	Qinghai Nodav tick virus 1 isolate QH01, complete genome	3711280			NA	2026/05/18
+434	PX374296.1	0.4600	0.9697	3.3	MAG: Madamur torque teno virus isolate MNB23_188_1626, complete genome	3477567	Anelloviridae		NA	2025/12/11
+435	PZ166167.1	0.4600	1.0000	1.6	MAG: Torque teno felis virus AZBC123_c, complete genome	3696513	Anelloviridae		NA	2026/04/18
+436	OR584006.1	0.4598	1.0000	6.2	Microviridae sp. isolate Abbotsbury_2016_UTMF1447r2, complete genome	2202644			eukaryote	2026/04/11
+437	PX119350.1	0.4595	0.9048	2.1	MAG: Gemycircularvirus isolate B79_13493, complete genome	1542744	Genomoviridae		NA	2025/12/14
+438	LC897324.1	0.4591	1.0000	16.2	Avian paramyxovirus 6 APMV-6/duck/Tottori/K128/2016 RNA, complete genome	2560316	Paramyxoviridae	Metaavulavirus	eukaryote	2026/04/18
+439	NC_105837.1	0.4589	1.0000	25.3	Essdubovirus chlorellae isolate SW01, complete genome	3428578	Dishuiviroviridae	Essdubovirus	NA	2026/06/05
+440	NC_117169.1	0.4586	0.9883	17.1	Denestis virus strain BE/Ninove/Mag/2/2019, complete genome	2940992	Paramyxoviridae	Narmovirus	NA	2026/06/23
+441	PX374232.1	0.4583	0.9524	2.1	MAG: Madamur torque teno virus isolate MNB22_098_2814, complete genome	3477567	Anelloviridae		NA	2025/12/11
+442	PX374209.1	0.4583	1.0000	3.6	MAG: Madamur torque teno virus isolate MNB23_209_3491, complete genome	3477567	Anelloviridae		NA	2025/12/11
+443	PX374133.1	0.4583	1.0000	2.8	MAG: Madamur torque teno virus isolate MNB23_166_2175, complete genome	3477567	Anelloviridae		NA	2025/12/11
+444	PX374053.1	0.4583	0.9643	2.8	MAG: Madamur torque teno virus isolate MNB23_190_1937, complete genome	3477567	Anelloviridae		NA	2025/12/11
+445	PX374054.1	0.4583	0.9375	1.6	MAG: Madamur torque teno virus isolate MNB23_213_1392, complete genome	3477567	Anelloviridae		NA	2025/12/11
+446	OR583925.1	0.4583	1.0000	4.9	Microviridae sp. isolate Abbotsbury_2016_UTMF1007, complete genome	2202644			eukaryote	2026/04/11
+447	PZ212848.1	0.4581	0.7051	7.8	Aphid lethal paralysis virus isolate Iraq-2, complete genome	209529	Dicistroviridae	Cripavirus	eukaryote	2026/06/27
+448	OR583929.1	0.4579	1.0000	4.9	Microviridae sp. isolate Abbotsbury_2016_UTMF1078, complete genome	2202644			eukaryote	2026/04/11
+449	PX119327.1	0.4577	0.9677	6.2	MAG: Gemycircularvirus isolate B22_55090, complete genome	1542744	Genomoviridae		NA	2025/12/14
+450	PX119412.1	0.4576	1.0000	1.7	MAG: Felismacovirus isolate B49_11260, complete genome	2842680	Smacoviridae		NA	2025/12/14
+451	PX374059.1	0.4576	0.9583	2.4	MAG: Madamur torque teno virus isolate MNB22_067_2795, complete genome	3477567	Anelloviridae		NA	2025/12/11
+452	PQ673594.1	0.4571	0.9800	5.0	Trimu totilivirus 1 isolate ISS 35, complete genome	NA	NA	NA	NA	2026/07/06
+453	PX374188.1	0.4571	0.9655	2.9	MAG: Madamur torque teno virus isolate MNB22_111_1335, complete genome	3477567	Anelloviridae		NA	2025/12/11
+454	PX374560.1	0.4571	0.9524	2.1	MAG: Madamur torque teno virus isolate MNB22_057_3179, complete genome	3477567	Anelloviridae		NA	2025/12/11
+455	PX119437.1	0.4570	0.9577	7.1	MAG: Smacoviridae sp. isolate C135_103689, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+456	PX970419.1	0.4566	0.9880	8.3	Zucchini tigre mosaic virus isolate GZ, complete genome	1406816	Potyviridae	Potyvirus	eukaryote	2026/03/24
+457	PX119407.1	0.4565	1.0000	2.9	MAG: Smacoviridae sp. isolate B40_67073, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+458	PX374294.1	0.4565	0.9630	2.7	MAG: Madamur torque teno virus isolate MNB22_109_2963, complete genome	3477567	Anelloviridae		NA	2025/12/11
+459	PX628457.1	0.4565	1.0000	1.4	UNVERIFIED: Apis cerana associated cyclovirus 1 isolate Ac1, complete genome	3683052	Circoviridae	Cyclovirus	NA	2026/02/11
+460	PX119377.1	0.4561	1.0000	2.5	MAG: Bovismacovirus isolate B17_15820, complete genome	2169575	Smacoviridae		NA	2025/12/14
+461	PX374227.1	0.4561	0.9375	1.6	MAG: Madamur torque teno virus isolate MNB22_079_4281, complete genome	3477567	Anelloviridae		NA	2025/12/11
+462	PX374568.1	0.4561	1.0000	3.2	MAG: Madalem torque teno virus isolate MNB22_040_2906, complete genome	3477566	Anelloviridae		NA	2025/12/11
+463	PX716990.1	0.4561	0.7037	2.7	Orthohepadnavirus hominoidei isolate LSG-143, complete genome	3431302	Hepadnaviridae	Orthohepadnavirus	NA	2026/02/17
+464	NC_116599.1	0.4554	0.9925	13.4	Tupavirus incomtus strain SB8301, complete genome	3433034	Rhabdoviridae	Tupavirus	NA	2026/05/19
+465	PX904252.1	0.4552	1.0000	7.7	Gerbera capillovirus A isolate karkh, complete genome	2951958	Betaflexiviridae	Capillovirus	NA	2026/03/25
+466	PX095339.1	0.4550	1.0000	10.2	Curvularia lunata hypovirus 1 isolate DMT14, complete genome	3716031	Hypoviridae	Hypovirus	NA	2026/06/10
+467	PX119436.1	0.4545	1.0000	2.7	MAG: Smacoviridae sp. isolate C135_75534, complete genome	2715094	Smacoviridae		eukaryote	2025/12/14
+468	PX119383.1	0.4545	1.0000	2.9	MAG: Bovismacovirus isolate B23_29626, complete genome	2169575	Smacoviridae		NA	2025/12/14
+469	PX374361.1	0.4545	0.9545	2.2	MAG: Madamur torque teno virus isolate MNB22_102_2760, complete genome	3477567	Anelloviridae		NA	2025/12/11
+470	PX374286.1	0.4545	1.0000	1.7	MAG: Madamur torque teno virus isolate MNB23_215_1225, complete genome	3477567	Anelloviridae		NA	2025/12/11
+471	PX374134.1	0.4545	1.0000	1.7	MAG: Madamur torque teno virus isolate MNB23_169_1646, complete genome	3477567	Anelloviridae		NA	2025/12/11
+472	NC_117424.1	0.4545	1.0000	4.0	Mimosa mosaic virus isolate BRPA, complete genome	3018030	Solemoviridae	Sobemovirus	NA	2026/05/19
+473	PZ166166.1	0.4545	1.0000	2.4	MAG: Torque teno felis virus AZBC123_b, complete genome	3696512	Anelloviridae		NA	2026/04/18
+474	LC895292.1	0.4541	1.0000	8.4	Zoysia mosaic virus ZoMV/lawngrass/Japan/TCG/2022 RNA, complete genome	2977532	Potyviridae	Poacevirus	NA	2025/10/03
+475	PX480010.1	0.4538	1.0000	11.4	Cotesia chilonis arto-like virus isolate A, complete genome	3467835	Artoviridae		NA	2025/11/08
+476	PX374251.1	0.4528	0.9474	1.9	MAG: Madamur torque teno virus isolate MNB23_204_2245, complete genome	3477567	Anelloviridae		NA	2025/12/11
+477	PX374036.1	0.4528	0.9500	2.0	MAG: Madamur torque teno virus isolate MNB23_242_243, complete genome	3477567	Anelloviridae		NA	2025/12/11
+478	PX374031.1	0.4528	0.9500	2.0	MAG: Madamur torque teno virus isolate MNB23_212_761, complete genome	3477567	Anelloviridae		NA	2025/12/11
+479	PX374309.1	0.4524	0.9600	2.5	MAG: Madamur torque teno virus isolate MNB23_219_1339, complete genome	3477567	Anelloviridae		NA	2025/12/11
+480	PX374246.1	0.4524	1.0000	2.1	MAG: Madamur torque teno virus isolate MNB23_181_2432, complete genome	3477567	Anelloviridae		NA	2025/12/11
+481	PX373987.1	0.4524	0.9333	1.5	MAG: Madamur torque teno virus isolate MNB22_075_3996, complete genome	3477567	Anelloviridae		NA	2025/12/11
+482	PX374338.1	0.4524	1.0000	2.0	MAG: Madamur torque teno virus isolate MNB22_075_3929, complete genome	3477567	Anelloviridae		NA	2025/12/11
+483	PZ014971.1	0.4521	1.0000	6.7	Totiviridae sp. 4 isolate QH01, complete genome	3711282	Orthototiviridae		NA	2026/05/18
+484	PX374451.1	0.4516	0.9545	2.2	MAG: Madamur torque teno virus isolate MNB23_171_1273, complete genome	3477567	Anelloviridae		NA	2025/12/11
+485	PX625739.1	0.4516	0.9867	7.5	Teschovirus A isolate SCgz 01, complete genome	118140	Picornaviridae	Teschovirus	eukaryote	2026/02/04
+486	PV585569.1	0.4516	1.0000	5.5	MAG: Hanko totivirus 5 isolate Cairo_CP_Pool7, complete genome	2970626	Orthototiviridae	Totivirus	NA	2025/12/21
+487	PZ135695.1	0.4512	1.0000	9.8	Cowpea mild mottle virus isolate CPMMV-HN-02, complete genome	67761	Betaflexiviridae	Carlavirus	eukaryote	2026/06/16
+488	PZ018873.1	0.4512	0.9892	9.3	Onion yellow dwarf virus isolate OYDV-TRv1, complete genome	43130	Potyviridae	Potyvirus	eukaryote	2026/05/18
+489	PX374096.1	0.4510	0.9524	2.1	MAG: Madamur torque teno virus isolate MNB22_068_691, complete genome	3477567	Anelloviridae		NA	2025/12/11
+490	PZ161873.1	0.4509	0.9888	106.7	Glena bisulca granulovirus isolate IIBBL BCIPV 1002, complete genome	3695548	Baculoviridae	Betabaculovirus	NA	2026/06/08
+491	NC_140550.1	0.4502	1.0000	17.0	Bovine narmovirus 1 strain Australia/bovine/L11/2019, complete genome	3035573	Paramyxoviridae	Bovinavirus	NA	2026/06/16
+492	PZ207403.1	0.4500	1.0000	3.3	Bean yellow mosaic virus isolate DSMZ PV-0469, complete genome	NA	NA	NA	NA	2026/07/06
+493	PX119352.1	0.4500	0.6500	2.0	MAG: Gemycircularvirus isolate B83_10134, complete genome	1542744	Genomoviridae		NA	2025/12/14
+494	PX374267.1	0.4500	0.9565	2.3	MAG: Madamur torque teno virus isolate MNB22_045_5407, complete genome	3477567	Anelloviridae		NA	2025/12/11
+495	PX374165.1	0.4500	0.9583	2.4	MAG: Madamur torque teno virus isolate MNB23_233_1208, complete genome	3477567	Anelloviridae		NA	2025/12/11
+496	PX374007.1	0.4500	0.9565	2.3	MAG: Madamur torque teno virus isolate MNB22_093_1652, complete genome	3477567	Anelloviridae		NA	2025/12/11
+497	OR583951.1	0.4500	1.0000	4.2	Microviridae sp. isolate Abbotsbury_2016_UTMF1138, complete genome	2202644			eukaryote	2026/04/11
+498	PV475168.1	0.4500	1.0000	1.3	MAG: Virus sp. isolate LBaCV-29, complete genome	2202649			NA	2026/01/13
